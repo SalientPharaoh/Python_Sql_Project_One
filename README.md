@@ -1,5 +1,5 @@
 # Python_Sql_Project_One
-Data entry and accessing using python and structured query language
+Data entry and accessing using python and structured query language(sql)
 
 The functions of the code:-
   Manage the SQL database using python.
